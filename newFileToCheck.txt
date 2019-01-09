@@ -1,2 +1,3 @@
 New text to check
 Line 2
+Line 3
