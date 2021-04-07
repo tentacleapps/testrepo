@@ -10,3 +10,5 @@ chcange on dev
 dev dev dev
 chacnge while remote branch deleted
 hacnge od dev
+fixed bad change
+
